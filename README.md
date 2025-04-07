@@ -55,13 +55,13 @@ Funcionalidades:
 * Jogo contra o computador
 
 * Placar de vitórias, derrotas e empates
+  
 
-
-# Como utilizar
+## Como utilizar
 1. Entrar no VsCode dar o RUN ou no terminal do VSCode apenas digitar "Python [nome do arquivo com py]"
 
 * Interface simples e intuitiva
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.

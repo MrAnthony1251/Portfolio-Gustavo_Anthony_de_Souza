@@ -56,6 +56,10 @@ Funcionalidades:
 
 * Placar de vitórias, derrotas e empates
 
+
+# Como utilizar
+1. Entrar no VsCode dar o RUN ou no terminal do VSCode apenas digitar "Python [nome do arquivo com py]"
+
 * Interface simples e intuitiva
 
 📄 Licença

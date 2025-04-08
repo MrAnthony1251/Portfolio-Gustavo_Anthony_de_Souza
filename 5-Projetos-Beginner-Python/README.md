@@ -1,6 +1,6 @@
 # 📌  Descrição 🐍
 
-Este repositório contém 5 projetos simples em Python:
+Este repositório contém 5 projetos simples em Python, indico que todos esses projetos são feitos para estudos de Tipos de dados ex: "Variáveis":
 1. Calculadora Simples
 2. Conversor de Moeda com GUI(Graphical User Interface) 
 3. Gerador de Senhas Aleatórias
